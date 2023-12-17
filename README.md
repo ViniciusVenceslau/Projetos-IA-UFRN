@@ -8,6 +8,4 @@ Este repositório foi criado para armazenar os projetos e exercícios desenvolvi
 
 - **Relatórios:** Nesta seção, estão disponíveis os relatórios de atividades e/ou projetos propostos pelo docente da disciplina. Alguns destes documentos foram produzidos em LaTeX, enquanto outros foram feitos no Google Docs.
 
-Se precisar entrar em contato, não hesite em fazê-lo através dos canais disponíveis no perfil.
-
 Espero que este repositório seja útil para quem estiver estudando Inteligência Artificial ou interessado nos tópicos abordados nesta disciplina específica.
